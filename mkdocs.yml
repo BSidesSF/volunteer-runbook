@@ -7,7 +7,7 @@ site_name: BsidesSF Volunteer Runbook
 # Theme settings
 theme:
   name: readthedocs
-  logo: images/bsidessf-logo.png
+  logo: volunteer-runbook/images/bsidessf-logo.png
   #custom_dir: custom_theme/
   font:
     text: "Source Sans 3"
