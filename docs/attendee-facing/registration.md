@@ -22,16 +22,17 @@ You will be the “face” of BSidesSF for all attendees. Your goal is to make a
 - Requires interacting with large numbers of people
 - May require standing for long periods of time (accommodations available)
 
-## Registration Desk 
+## Registration Steps 
 
-### Process Attendee Registration
+### Process Attendee Registration and Payment
+
 #### Pre-registered Participants
 
 - Ask participant for QR code OR name/e-mail
 - Scan the QR code OR look up participant in app
 - Check in attendee
 
-#### On Site
+#### On Site Registration
 
 - Inform the participant of pricing 
 

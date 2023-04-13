@@ -20,7 +20,8 @@ plugins:
 
 # Navigation 
 nav:
-  - For All Volunteers: index.md
+  - For All Volunteers: 
+    - index.md
   - Safety Ops: 
     - safety-ops/for-all-safety-ops.md
     - safety-ops/incidents.md
