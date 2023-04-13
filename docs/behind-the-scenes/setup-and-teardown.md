@@ -1,7 +1,5 @@
 # Setup and Teardown
 
-# Setup and Teardown
-
 ## What Is This Role?
 
 In this position, you will be responsible for the appearance of the venue and ultimately support the overall BSidesSF experience! This is a brief overview of what to expect, but you’ll receive more detailed instructions at the start of your shift.
@@ -19,23 +17,22 @@ In this position, you will be responsible for the appearance of the venue and ul
 
 ## Friday Morning  (9AM - 1PM)
 
-Quick orientation to understand team’s goals and how to complete them
-Assist in unloading rentals from the freight elevator and moving them into Embarcadero (refer to map)
-All materials (tables, chairs, table cloths, signage, etc.) to be moved from Embarcadero to their respective rooms in the order listed below 
-- Staff Ops 
-- Sponsor Lounge
-- Info Desk
-- Coat Check
-- Villages
-- CTF
-- Bar/Chillout Space
-- Tent 
-- Chill Out Patio (tables set up dependant on weather)
-- Registration (staging area)
-- Theaters (staging area)
-
-Begin setup of each space’s respective materials in accordance with floor plan 
-Clean up all trash and place within the kitchen for Green Mary (Garbage Disposal) to pick up
+- Quick orientation to understand team’s goals and how to complete them
+- Assist in unloading rentals from the freight elevator and moving them into Embarcadero (refer to map)
+- All materials (tables, chairs, table cloths, signage, etc.) to be moved from Embarcadero to their respective rooms in the order listed below 
+  - Staff Ops 
+  - Sponsor Lounge
+  - Info Desk
+  - Coat Check
+  - Villages
+  - CTF
+  - Bar/Chillout Space
+  - Tent 
+  - Chill Out Patio (tables set up dependant on weather)
+  - Registration (staging area)
+  - Theaters (staging area)
+- Begin setup of each space’s respective materials in accordance with floor plan 
+- Clean up all trash and place within the kitchen for Green Mary (Garbage Disposal) to pick up
 
 
 ## Friday Afternoon (2PM - 6PM)
