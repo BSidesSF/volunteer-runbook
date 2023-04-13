@@ -1,17 +1,13 @@
 # Project Information
 site_name: BsidesSF Volunteer Runbook
 
-# Repository Information
-# repo_url: 
+Repository Information
+repo_url: https://github.com/BSidesSF/volunteer-runbook
 
 # Theme settings
 theme:
   name: readthedocs
-  logo: volunteer-runbook/images/bsidessf-logo.png
-  #custom_dir: custom_theme/
-  font:
-    text: "Source Sans 3"
-    code: Inconsolata
+  logo: https://bsidessf.org/volunteer-runbook/images/bsidessf-logo.png
 
 # Making RTD work for larger screens
 extra_css: [extra.css]
@@ -28,6 +24,10 @@ nav:
     - safety-ops/for-all-safety-ops.md
     - safety-ops/incidents.md
     - safety-ops/positions.md
+  - Behind The Scenes Roles:
+    - behind-the-scenes/bag-stuffing.md
+    - behind-the-scenes/bag-stuffing.md
+    - behind-the-scenes/bag-stuffing.md
   - Attendee Facing Roles:
     - attendee-facing/coat-check.md
     - attendee-facing/information-desk.md
