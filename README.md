@@ -1,6 +1,6 @@
-# bsidessf-volunteer-runbook
+# BsidesSF Volunteer Runbook
 
-Static HTML site using Mkdocs to render a readthedocs themed site of the BsidesSF volunteer runbook.
+Static HTML site using Mkdocs to render a readthedocs themed site of the BsidesSF volunteer runbook. This is deployed to https://bsidessf.org/volunteer-runbook
 
 ## How to Deploy
 
@@ -8,9 +8,12 @@ GitHub Pages are configured to serve files from the root of the `deployed` branc
 
 [GitHub actions](.github/workflows/deploy-static-site.yml) are set for this repo. Upon a commit or merge to main the Github runner will rebuild the site and push it to the `deployed` branch for GitHub pages
 
-To deploy changes manually, run `deploy.sh` The `mkdocs gh-pages` command will build and commit it to the `deployed` branch. GitHub Pages is set to serve the files committed to the root of `deployed`
+To deploy changes manually, run `deploy.sh` The `mkdocs gh-pages` command inside will build and commit it to the `deployed` branch.
 
 ## I've Never Used MkDocs Before
+
+To edit a page, edit the associated markdown file and merge to main.
+To add a page, create a new `<name>.md` markdown file, add it in the `nav:` section of `mkdocs.yml` to add it to the navigation tree, and merge to main
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
