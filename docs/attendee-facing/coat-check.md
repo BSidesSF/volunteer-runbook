@@ -10,9 +10,8 @@ The Coat Check area will be responsible for Coat Check, T-Shirt Sales/Pre-Sales,
 - Act as a cashier and distribute conference merchandise (badges, t-shirts, drink tickets)
 - Answer questions for attendees
 - Manage venue Lost and Found
-
 **Bonus:**
-Have strong communication and customer service skills
+- Have strong communication and customer service skills
 
 ### Accessibility
 
@@ -31,22 +30,16 @@ Have strong communication and customer service skills
 
 ### Pre-Ordered Materials (T-Shirts, etc)
 
-Scan participant receipt via provided hardware and software to determine what materials they have purchased prior to the event.  Training on the hardware and software will be provided on-site.
-
-- T-Shirts (be careful about what year and size has been pre-ordered)
-- Other items - verify items and quantities
-  
-Obtain materials from stock (may be by the person doing the scanning or a dedicated stock supply role)
-Verify *exactly* what has been paid for is what is being provided
-
-- T-Shirts - Year, Size, and Quantity
-- Other Items - Item and Quantity
-
-Provide t-shirt purchasers with tokens for each t-shirt ordered and picked up, to be used in the charity distribution
-
-Mark the items as having been picked up in the application.
-
-If there are discrepancies, work with a supervisor to mitigate them.  We may be short of supplies so not all replacements are possible (ex: previous year t-shirts we may have sold out of all other sizes).
+- Scan participant receipt via provided hardware and software to determine what materials they have purchased prior to the event.  Training on the hardware and software will be provided on-site.
+    - T-Shirts (be careful about what year and size has been pre-ordered)
+    - Other items - verify items and quantities
+- Obtain materials from stock (may be by the person doing the scanning or a dedicated stock supply role)
+- Verify *exactly* what has been paid for is what is being provided
+    - T-Shirts - Year, Size, and Quantity
+    - Other Items - Item and Quantity
+- Provide t-shirt purchasers with tokens for each t-shirt ordered and picked up, to be used in the charity distribution
+- Mark the items as having been picked up in the application.
+- If there are discrepancies, work with a supervisor to mitigate them.  We may be short of supplies so not all replacements are possible (ex: previous year t-shirts we may have sold out of all other sizes).
 
 ### On-Site T-Shirt Sales
 

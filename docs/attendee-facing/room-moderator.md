@@ -21,21 +21,16 @@ This is an attendee-facing position that ensures overall presenter readiness, pr
 
 ## Before The Talk
 
-Report to the volunteer reg desk on the mezzanine level. You should pick up the presenter gift bags and a printed schedule for the talks you will be covering. Head over to alloted talk room.
-
-- Your schedule will indicate which presenters should receive gifts
-- Presenter gift bags will be clearly labeled with Presenter Name, Talk Title, Theatre, Day, Time
-
-Make sure the presenter checks in with you 5-10 minutes before their start time. If they haven’t checked in, flag to radioed con staff, i.e. a Safety Ops member or a Staff member.
-
-Ask the presenter if they want to be introduced based on their bio in Sched or whether they will 
+- Report to the volunteer reg desk on the mezzanine level. You should pick up the presenter gift bags and a printed schedule for the talks you will be covering. Head over to alloted talk room.
+    - Your schedule will indicate which presenters should receive gifts
+    - Presenter gift bags will be clearly labeled with Presenter Name, Talk Title, Theatre, Day, Time
+- Make sure the presenter checks in with you 5-10 minutes before their start time. If they haven’t checked in, flag to radioed con staff, i.e. a Safety Ops member or a Staff member.
+- Ask the presenter if they want to be introduced based on their bio in Sched or whether they will 
 intro themselves. Remind folks to submit or upvote questions via the sli.do event.
+- Open the safari browser on your phone  and navigate to admin.sli.do. Make sure you are in the correct slido room for the talk. If you are proctoring a panel, please work with the panel moderator on how to use slido.
+- Bring up the presenter’s presentation on the in-room Chromebook. There are 4 format options:
 
-Open the safari browser on your phone  and navigate to admin.sli.do. Make sure you are in the correct slido room for the talk. If you are proctoring a panel, please work with the panel moderator on how to use slido.
-
-Bring up the presenter’s  presentation on the in-room Chromebook. There are 4 format options:
-
-### Google
+### Google Slides Presentations
 
 - Plug Chromebook in to adapter
 - Set Chromebook external screen to Extend mode (separate screens)
@@ -43,20 +38,20 @@ Bring up the presenter’s  presentation on the in-room Chromebook. There are 4 
 - Present with presenter mode
 - Put presenter notes window on chromebook screen, presentation window on extended screen (big screens)
 
-### Microsoft
+### Office 365 Presentation 
 
 - Plug Chromebook in to adapter
 - Set Chromebook external screen to Mirror mode (all screens show same)
 - Open appropriate presentation in Office365 from tab in chrome
 - Present
 
-### PDF
+### PDF Presentation
 
 - Plug Chromebook in to adapter
 - Set Chromebook external screen to Mirror mode (all screens show same)
 - Open appropriate presentation PDF from Drive
 
-### Own Device
+### Own Device Presentation
 
 - Unplug Chromebook from adapter
 - Plug speaker device in to adapter

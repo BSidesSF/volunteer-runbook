@@ -20,7 +20,6 @@ In this position, you will contribute to the event setup and tear down team and 
 - Distribute drink tickets throughout the party to attendees near the party entrance
 Volunteers (1-2) at door distributing drink tickets as guests enter
 
-
 ## Decor / Furnishings 
 
 This is the team that transform conference room to a party room and back again

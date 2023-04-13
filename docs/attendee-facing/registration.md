@@ -14,31 +14,26 @@ You will be the “face” of BSidesSF for all attendees. Your goal is to make a
 - Sell conference merchandise at the desk, provide a receipt and direct attendee to coat check to retrieve their merchandise	
 - Share attendee feedback with other volunteers as necessary
 - Handle walk-in ticket sales
-
 **Bonus**
-
 - Have strong communication skills
 - Have strong customer service skills
 
 ### Accessibility
-
 - Requires interacting with large numbers of people
 - May require standing for long periods of time (accommodations available)
 
-## Registration Desk
+## Registration Desk 
 
-### Pre-registered Participants
+### Process Attendee Registration
+#### Pre-registered Participants
 
 - Ask participant for QR code OR name/e-mail
 - Scan the QR code OR look up participant in app
 - Check in attendee
 
-### On Site Registration
-
-#### Pricing
+#### On Site
 
 - Inform the participant of pricing 
-
 
 | Registration                        | Price        |  
 |-------------------------------------|--------------|
@@ -49,12 +44,12 @@ You will be the “face” of BSidesSF for all attendees. Your goal is to make a
 
 - Process the registration in the Square app and accept payment
   
-#### Vaccination
+### Vaccination
 
 - Confirm vaccination status via ID and recognized health authority card/SMART QR code
 - Issue wristbands to vaccinated participants
   
-#### Giving Out Swag to Participants
+### Give Out Swag and Directions
 
 - Provide each participant with swag bag
 - Provide each participant with appropriate badge + directions

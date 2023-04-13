@@ -21,8 +21,6 @@ You will be the “face” of BSidesSF for all attendees. Your goal is to make a
 - Requires interacting with large numbers of people
 - May require standing for long periods of time (accommodations available)
 
-
-
 ## Greeter
 
 - Provide a welcoming face for BSidesSF

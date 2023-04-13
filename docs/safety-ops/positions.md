@@ -33,8 +33,7 @@ Your primary job is to observe and report. Do not leave your post if you see or 
 - Requires interacting with large numbers of people.
 - Requires walking for long periods of time .
 
-## Shift Lead:
-(1 position)
+## Shift Lead
 
 - Manage all the general public safety staff for a given shift.
 - Check in/out all public safety staff when they arrive/leave.
@@ -52,7 +51,6 @@ Your primary job is to observe and report. Do not leave your post if you see or 
 - Requires you to keep track and check in on many volunteers and give clear guidance to them
 
 ## Public Safety Lead
-(1 Position)
 
 - Provide all public safety staff starting their shift with any pertinent information they may need (e.g. special events during the shift, any participants to look out for etc).
 - Make sure Shift Leads have what they need to manage their volunteers
