@@ -13,10 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/checkout@v3
-        with:
-          ref: deployed
       - name: Install Dependencies
         run: pip install -r requirements.txt
       - name: Build and Deploy Site
-        run: mkdocs gh-deploy --clean --remote-branch deployed --theme readthedocs
+        run: mkdocs gh-deploy --clean --remote-branch deployed --theme readthedocs --force
