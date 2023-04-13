@@ -1,8 +1,9 @@
 # Project Information
 site_name: BsidesSF Volunteer Runbook
 
-Repository Information
+# Repository Information
 repo_url: https://github.com/BSidesSF/volunteer-runbook
+edit_uri: /edit/main/
 
 # Theme settings
 theme:
