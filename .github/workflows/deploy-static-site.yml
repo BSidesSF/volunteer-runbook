@@ -13,9 +13,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Pull the Deployed Branch Down for Chantes
-        run:  git pull origin deployed
+      - uses: actions/checkout@v3
+        with:
+          ref: deployed
       - name: Install Dependencies
-        run: pwd && ls && pip install -r requirements.txt
+        run: pip install -r requirements.txt
       - name: Build and Deploy Site
         run: mkdocs gh-deploy --clean --remote-branch deployed --theme readthedocs
