@@ -6,13 +6,16 @@ on:
     branches:
       - main
       
-permissions:
-  contents: read
+permissions: read-all
 
 jobs:
   production-deploy:
     runs-on: ubuntu-latest
     steps:
+      - name: Where Are Files?
+        run: find . -name 'requirements.txt'
+      - name: What's In Default Directory?
+        run: ls
       - name: Install Dependencies
         run: pwd && ls && pip install -r requirements.txt
       - name: Build and Deploy Site
