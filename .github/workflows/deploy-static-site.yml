@@ -13,6 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - name: Pull the Deployed Branch Down for Chantes
+        run:  git pull origin deployed
       - name: Install Dependencies
         run: pwd && ls && pip install -r requirements.txt
       - name: Build and Deploy Site
