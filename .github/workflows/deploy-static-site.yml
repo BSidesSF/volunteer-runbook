@@ -1,0 +1,16 @@
+name: mkdocs-deploy-to-gh-pages
+run-name: Deploying static site files to https://bsidessf.org/volunteer-runbook/ by @${{ github.actor }}
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  production-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+      - name: Build and Deploy Site
+        run: mkdocs gh-deploy --clean --remote-branch deployed --theme readthedocs

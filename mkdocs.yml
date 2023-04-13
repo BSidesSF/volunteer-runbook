@@ -8,7 +8,7 @@ edit_uri: edit/main/docs/
 # Theme settings
 theme:
   name: readthedocs
-  logo: volunteer-runbook/images/bsidessf-logo.png
+  logo: images/bsidessf-logo.png
 
 # Making RTD work for larger screens
 extra_css: [extra.css]
@@ -20,7 +20,7 @@ plugins:
 
 # Navigation 
 nav:
-  - For All Volunteers: 
+  - Home: 
     - index.md
   - Safety Ops: 
     - safety-ops/for-all-safety-ops.md

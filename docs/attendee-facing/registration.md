@@ -14,6 +14,7 @@ You will be the “face” of BSidesSF for all attendees. Your goal is to make a
 - Sell conference merchandise at the desk, provide a receipt and direct attendee to coat check to retrieve their merchandise	
 - Share attendee feedback with other volunteers as necessary
 - Handle walk-in ticket sales
+  
 **Bonus**
 - Have strong communication skills
 - Have strong customer service skills
