@@ -12,16 +12,16 @@ To deploy changes manually, run `deploy.sh` The `mkdocs gh-pages` command inside
 
 ## I've Never Used MkDocs Before
 
-To edit a page, edit the associated markdown file and merge to main.
-To add a page, create a new `<name>.md` markdown file, add it in the `nav:` section of `mkdocs.yml` to add it to the navigation tree, and merge to main
+- To edit a page, edit the associated markdown file and merge to main.
+- To add a page, create a new `<name>.md` markdown file, add it in the `nav:` section of `mkdocs.yml` to add it to the navigation tree, and merge to main
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ### Helpful Local Commands
 
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- `mkdocs serve` - Start the live-reloading docs server. This can let you preview changes locally before pushing them to GitHub.
+- `mkdocs build` - Build the documentation site.
+- `mkdocs -h` - Print help message and exit.
 
 ### Project layout
 
