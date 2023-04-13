@@ -39,10 +39,13 @@ You will be the “face” of BSidesSF for all attendees. Your goal is to make a
 
 - Inform the participant of pricing 
 
-| Sunday                             | $60          |
-| Monday                             | $40          |
-| Children 12 and Under (Both Days)  | $20          |
-| Academia / Active Military With ID | 50% Discount |
+
+| Registration                        | Price        |  
+|-------------------------------------|--------------|
+| Sunday                              | $60          |
+| Monday                              | $40          | 
+| Children 12 and Under (Both Days    | $20          | 
+| Academia / Active Military With ID  | 50% Discount | 
 
 - Process the registration in the Square app and accept payment
   
