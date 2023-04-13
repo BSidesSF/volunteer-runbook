@@ -11,6 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Install Dependencies
-        run: pip install -r requirements.txt
+        run: pwd && ls && pip install -r requirements.txt
       - name: Build and Deploy Site
         run: mkdocs gh-deploy --clean --remote-branch deployed --theme readthedocs
