@@ -12,6 +12,7 @@ jobs:
   production-deploy:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
       - name: Where Are Files?
         run: find . -name 'requirements.txt'
       - name: What's In Default Directory?
