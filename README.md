@@ -4,6 +4,8 @@ Static HTML site using Mkdocs to render a readthedocs themed site of the BsidesS
 
 ## How to Deploy
 
+GitHub Pages are configured to serve files from the root of the `deployed` branch.
+
 [GitHub actions](.github/workflows/deploy-static-site.yml) are set for this repo. Upon a commit or merge to main the Github runner will rebuild the site and push it to the `deployed` branch for GitHub pages
 
 To deploy changes manually, run `deploy.sh` The `mkdocs gh-pages` command will build and commit it to the `deployed` branch. GitHub Pages is set to serve the files committed to the root of `deployed`
@@ -34,4 +36,5 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 │       ├── role.md
 ├── mkdocs.yml                  # Configuration for MkDocs, including navigation tree
 ├── requirements.txt            # Required Python packages to use and run MkDocs
+└── site                        # Output directory of the MkDocs build files
 ```
