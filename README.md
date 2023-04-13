@@ -1,2 +1,5 @@
-# volunteer-runbook
-A static site generated with MkDocs for hosting our volunteer runbook
+# bsidessf-volunteer-runbook
+
+Static HTML site using Mkdocs to render a readthedocs themed site of the volunteer runbook
+
+To deploy changes, run `deploy.sh`
