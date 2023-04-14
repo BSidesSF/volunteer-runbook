@@ -13,6 +13,7 @@ Welcome to BsidesSF's volunteer runbook. Thank you for volunteering! This commun
 
 - Water
 - Snacks
+- Meals
 - Bathrooms
 - A place to store your belongings
 - BSidesSF volunteer shirt
