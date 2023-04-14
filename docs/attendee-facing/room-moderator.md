@@ -25,7 +25,7 @@ This is an attendee-facing position that ensures overall presenter readiness, pr
     - Your schedule will indicate which presenters should receive gifts
     - Presenter gift bags will be clearly labeled with Presenter Name, Talk Title, Theatre, Day, Time
 - Make sure the presenter checks in with you 5-10 minutes before their start time. If they haven’t checked in, flag to radioed con staff, i.e. a Safety Ops member or a Staff member.
-- Ask the presenter if they want to be introduced based on their bio in Sched or whether they will 
+- Ask the presenter if they want to be introduced based on their bio in [Sched](https://bsidessf.org/schedule.html) or whether they will 
 intro themselves. Remind folks to submit or upvote questions via the sli.do event.
 - Open the safari browser on your phone  and navigate to admin.sli.do. Make sure you are in the correct slido room for the talk. If you are proctoring a panel, please work with the panel moderator on how to use slido.
 - Bring up the presenter’s presentation on the in-room Chromebook. There are 4 format options:
@@ -61,7 +61,7 @@ intro themselves. Remind folks to submit or upvote questions via the sli.do even
 
 - Give the speaker **10 and 2 minutes warnings for 50 min talks** or **5 and 1 min warnings for 25 min talks** using the time signs. **Hold up the STOP sign when they run out of time**. Please note that this is the total time for the talk including Q&A.  
 - Please make sure there is no one sitting in the stairs - this is a fire hazard. 
-- Make sure to moderate the questions submitted as they come in. They won’t show up on the app until you approve them. Use your best judgment when approving questions - no inappropriate comments, no vulgarity, no attack strings. Here is a short video tutorial on question moderation. 
+- Make sure to moderate the questions submitted as they come in. They won’t show up on the app until you approve them. Use your best judgment when approving questions - no inappropriate comments, no vulgarity, no attack strings. [Here is a short video](https://youtu.be/gA_H62oRmwY) tutorial on question moderation. 
 
 ## After the talk - Announcements and Presenter Thank You
 

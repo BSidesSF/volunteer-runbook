@@ -10,6 +10,7 @@ The Coat Check area will be responsible for Coat Check, T-Shirt Sales/Pre-Sales,
 - Act as a cashier and distribute conference merchandise (badges, t-shirts, drink tickets)
 - Answer questions for attendees
 - Manage venue Lost and Found
+  
 **Bonus:**
 - Have strong communication and customer service skills
 
