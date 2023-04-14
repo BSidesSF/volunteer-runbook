@@ -1,0 +1,12 @@
+
+/* Expand the text area for wider screens*/
+.wy-nav-content {
+    max-width: 1400px; !important;
+}
+
+/* Center images by default */
+.wy-nav-content img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
