@@ -12,6 +12,7 @@ The Coat Check area will be responsible for Coat Check, T-Shirt Sales/Pre-Sales,
 - Manage venue Lost and Found
   
 **Bonus:**
+
 - Have strong communication and customer service skills
 
 ### Accessibility
